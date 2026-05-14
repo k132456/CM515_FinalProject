@@ -1,0 +1,4 @@
+The following data files were used in this project but are too large to upload to this repository. They are available on Solanaceae Genomics Network(https://solgenomics.net/ftp/genomes/Solanum_pimpinellifolium/LA1589/2020/).
+ITAG4.0_gene_models.gff
+SollycSweet-100_genes_v2.1.1.gff3
+SollycSweet-100_v2.0.fasta
