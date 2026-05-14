@@ -1,7 +1,7 @@
 # CM515_FinalProject
 This repository documents the partial reproduction of Figures 1–3 from Glaus et al. (2025), Nature Genetics (https://doi.org/10.1038/s41588-024-02026-9) [1]. This serves as a Final Project for Colorado State University’s CM515 Spring 2026 course. The goals of this project were to utilize the code, data, and methods provided by the authors to reproduce Figures 1 through 3 from the publication.
 
-‘additionaldata’ contains data that I needed in addition to the data provided by the authors in order to reproduce the work.
+‘additionaldata’ contains data that I needed in addition to the data provided by the authors in order to reproduce the work and files that I produced.
 ‘presentationandreport’ contains my presentation materials and a report summarizing the project.
 ‘scripts’ contains all scripts that I produced during this project. It does NOT contain the scripts produced by the authors, several of which are required for this project.
 
