@@ -1,2 +1,10 @@
 # CM515_FinalProject
 This repository documents the partial reproduction of Figures 1–3 from Glaus et al. (2025), Nature Genetics (https://doi.org/10.1038/s41588-024-02026-9) [1]. This serves as a Final Project for Colorado State University’s CM515 Spring 2026 course. The goals of this project were to utilize the code, data, and methods provided by the authors to reproduce Figures 1 through 3 from the publication.
+
+‘additionaldata’ contains data that I needed in addition to the data provided by the authors in order to reproduce the work.
+‘presentationandreport’ contains my presentation materials and a report summarizing the project.
+‘scripts’ contains all scripts that I produced during this project. It does NOT contain the scripts produced by the authors, several of which are required for this project.
+
+Data, code, and other information provided in the article can be found in the following places:
+The authors provide a repository, available on both Github and Zenodo, that contains many of the code scripts and data files necessary to reproduce their work (https://github.com/soyklab/delvar-2024, https://doi.org/10.5281/zenodo.13805190). Several of their methods required a high performance computing cluster and could not be run on a local computer; however, for most such procedures, the authors provide output files so it is possible to reproduce the rest of the workflow. They provide a supplementary repository on Zenodo (https://doi.org/10.5281/zenodo.13787654), which contains important reference genome materials and the deleterious variant prediction data. Within the article they provide several files of supplementary/source data that are necessary for reproduction (see Data Availability, Supplementary Information, and Source Data sections). Finally, the authors provided links to genomic and proteomic data available online at the Solanaceae Genomics Network (https://solgenomics.net/ftp/genomes/Solanum_pimpinellifolium/LA1589/2020/), the National Center for Biotechnology Information (NCBI) (https://www.ncbi.nlm.nih.gov/), and the Plant Transcription Factor Database (PlantTFDB) (v.5.0) (https://planttfdb.gao-lab.org/).
+
