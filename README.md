@@ -3,8 +3,7 @@ This repository documents the partial reproduction of Figures 1–3 from Glaus e
 
 ‘additionaldata’ contains data that I needed in addition to the data provided by the authors in order to reproduce the work and files that I produced.
 
-‘presentationandreport’ contains my presentation materials and a report summarizing the project.
-*ALL FIGURE REPRODUCTIONS CAN BE FOUND IN THE PRESENTATION FILE.
+‘presentationandreport’ contains my presentation materials and a report summarizing the project. All figure reproductions can be found in the presentation file as well as 'FigureReproductions'.
 
 ‘scripts’ contains all scripts that I produced during this project. It does NOT contain the scripts produced by the authors, several of which are required for this project.
 
