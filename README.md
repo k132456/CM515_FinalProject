@@ -8,6 +8,8 @@ This repository documents the partial reproduction of Figures 1–3 from Glaus e
 
 ‘scripts’ contains all scripts that I produced during this project. It does NOT contain the scripts produced by the authors, several of which are required for this project.
 
+'FigureReproductions' contains images of all figure reproductions.
+
 Data, code, and other information provided in the article can be found in the following places:
 The authors provide a repository, available on both Github and Zenodo, that contains many of the code scripts and data files necessary to reproduce their work (https://github.com/soyklab/delvar-2024, https://doi.org/10.5281/zenodo.13805190). Several of their methods required a high performance computing cluster and could not be run on a local computer; however, for most such procedures, the authors provide output files so it is possible to reproduce the rest of the workflow. They provide a supplementary repository on Zenodo (https://doi.org/10.5281/zenodo.13787654), which contains important reference genome materials and the deleterious variant prediction data. Within the article they provide several files of supplementary/source data that are necessary for reproduction (see Data Availability, Supplementary Information, and Source Data sections). Finally, the authors provided links to genomic and proteomic data available online at the Solanaceae Genomics Network (https://solgenomics.net/ftp/genomes/Solanum_pimpinellifolium/LA1589/2020/), the National Center for Biotechnology Information (NCBI) (https://www.ncbi.nlm.nih.gov/), and the Plant Transcription Factor Database (PlantTFDB) (v.5.0) (https://planttfdb.gao-lab.org/).
 
